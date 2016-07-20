@@ -312,7 +312,7 @@ a.github {
 }
 
 a.buttons:hover {
-	<img src="http://i.imgur.com/B6uRyjx.jpg">
+	background: url(../images/B6uRyjx.jpg) no-repeat 170px;
 	text-decoration: #ffad33;
 }
 
