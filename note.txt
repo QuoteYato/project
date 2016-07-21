@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Project by QuoteYato</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Josiah .L Hollins for president</h1>
+        
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/QuoteYato/project/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/QuoteYato/project/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/QuoteYato/project">View On GitHub</a></li>
+        </ul>
+        <p>  Lets make this conutry great again!!</p>
+        
+
+
+      </header>
+      <section>
+        <h3>Lets Go America!</h3>
+<img src="http://www.photobullseye.com/wp-content/uploads/2013/11/9-murica.png" alt="murica.png"/>
+<h3>Merica</h3>
+<p>America is a great country that is a symbol of freedom to every nation! Im here to bring this nation to peace and be awesome! </p>
+
+<h3>A good strnog leader</h3>
+<img src="https://cdn.meme.am/instances/500x/25031529.jpg" alt="25031529.jpg"/>
+<h3>The 16 Most Brazen Lies From Our Presidential Candidates</h3>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/K0nd5gUnLME" frameborder="0" allowfullscreen></iframe> 
+ 
+<p>These are the lies that alot of americans belive in so i hope you got some facts outta this to help you elect (not that ittll do much good now scines its just Trump and Hillary)</p>
+<p>We’ve crafted some handsome changes to our  constitution BUT I feel that in the past we have looked away from its biblical origin Josiah Hollins will help america realize their mistales and flaws.Together, as on nation,we can all make america great again </p>
+
+<h3>The issue of Migrants</h3>
+<img src="http://www.newyorker.com/wp-content/uploads/2015/08/Toobin-Illegal-Immigrant-1200-630-04174126.jpg" alt="Toobin-Illegal-Immigrant-1200-630-04174126.jpg"
+<p>Its not really an issue at all,infact it is a great pleasure! I love all minoritys,I am really found of Asia,to be specific, Japan we can all learn a great deal from them so why dont we accept them? Because were scared thats why,because some americans dont want to except that there are indeed other people in this world that arent like us,i belive this will change if i am elected president! </p>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QHcjznBk268" frameborder="0" allowfullscreen></iframe>
+
+<img src="http://www.aframnews.com/wp-content/uploads/2015/12/immigration.jpg"> <p>There are some people who may not be familiar with the expression “political equality.” I offer the following brief discussion for readers who may wonder what is meant by this expression, as my friend Steven Newcomb wondered in his column when he wrote: “Dr. Ryser talks about ‘establishing political equality between nations and states,’ but what does that mean? We cannot possibly know what he means by that statement unless we know how he interprets the phrase ‘political equality between nations and states.</p> <img src="http://image.shutterstock.com/z/stock-photo-people-coming-to-america-concept-large-group-of-people-forming-the-united-states-of-america-357612341.jpg">
+</div>
+</section>
+  </body>
+</html>
